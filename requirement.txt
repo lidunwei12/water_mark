@@ -2,3 +2,4 @@ pillow
 numpy
 wand
 pypiwin32
+opencv-python
